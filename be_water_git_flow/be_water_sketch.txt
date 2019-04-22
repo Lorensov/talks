@@ -54,3 +54,4 @@ Estrutura:
 ** git rebase
 ** Merge (?)
 ** Flow (branches)
+** https://gitmoji.carloscuesta.me/
