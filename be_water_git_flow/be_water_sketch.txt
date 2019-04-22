@@ -1,0 +1,56 @@
+Be Water: Git Flow, Cultura DevOps e Soft Skills aplicadas
+
+Tudo que você coda é um resultado de tudo que você viveu e do seu commit na no final da sexta-feira; o objetivo é abordar sobre padrões de organização tanto em documentação, uso do Git em Branches e Commits, e como levar bons hábitos para seu time.
+
+Descrição:
+A palestra foca em trazer um pouco da minha experiência de vida no que aprendi ao exercer protagonismo na cultura e processos dos times de desenvolvimento.
+Compartilhar algumas dicas de como fazer isso tanto em conjunto com seu time como consigo mesmo. 
+Além de trazer bibliografia e orientações para um aprendizado contínuo, e com demonstrações práticas de como fazer o melhor possível começando com pouco.
+Da dinâmica será abordar padrões de organização de documentação focando em README.md, um pouco de git e por último como levar ao seu time essa abordagem ao seu time, que muitas vezes está sem padrões.
+
+
+
+Estrutura:
+
+(intro) Be Water :
+* Estados da Água
+
+(1) Soft Skills :
+* Carreira e Intrapessoalidade
+* Emprego
+* Navio (se dar bem com seus colegas de trabalho
+* Crescer no Emprego
+* Batendo de frente* (revidando a pressão imposta)
+
+(2) Cultura DevOps :
+* Pessoas e Hábitos
+* Processos
+* Nuvem (prod-homolog)
+* CI / CD
+* Pessoas commitando certo
+
+(3) Git Flow :
+* Por quê é importante? (checkpoint antes de enfrentar um boss)
+* o que é o Git?
+* O que é o Flow?
+* Nomenclaturas e Padrões
+--- Prático ---
+* Básico 
+** git init
+** git add 
+** git commit
+** git push
+
+* Intermediário
+** git clone
+** git checkout
+** git pull
+** CONFLITO
+
+* Avançado
+** SSH
+** Resolução de Conflito
+** git --option-strategy theirs
+** git rebase
+** Merge (?)
+** Flow (branches)
