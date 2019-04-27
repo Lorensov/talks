@@ -13,7 +13,7 @@ Da dinâmica será abordar padrões de organização de documentação focando e
 Estrutura:
 
 (intro) Be Water :
-* Estados da Água
+* A Forma Dagua
 
 (1) Soft Skills :
 * Carreira e Intrapessoalidade
