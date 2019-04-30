@@ -1,10 +1,9 @@
-vivendo em um mundo de algoritmos
+Vivendo em um mundo de algoritmos
 
-Se um algoritmo induz com quem você se relaciona, ele não estaria moldando o genoma humano?
+Se um algoritmo determina com quem você se você "dá match", ele não estaria moldando o genoma humano?
 
-Como viver em um mundo em que todas as suas necessidades básicas estão sendo analisadas?
-Como tirar o melhor proveito disso e assim ter uma vantagem competitiva?
+Como viver em um mundo em que todas as suas necessidades básicas estão constantemente sendo analisadas?
+Como tirar o melhor proveito disso tudo e assim ter uma vantagem competitiva?
 Como usar o poder da programação a seu favor?
 
-Uma palestra com dicas práticas e um pequeno caminho das pedras 
-de como viver tendo seus dados como moeda de troca entre empresas e governos.
+Uma palestra com dicas práticas e um norte sobre como viver tendo seus dados como moeda de troca para empresas, governos e instituições.
