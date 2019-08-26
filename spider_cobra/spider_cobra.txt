@@ -1,0 +1,8 @@
+Crawling: Enxergando a Internet por outros olhos.
+
+A Internet é muito mais do que o que o Browser te mostra.
+Ela é composta pela forma de pensar de milhares de pessoas que codificaram
+diferentes ambientes e locais para você acessar.
+E nesse bate-papo você poderá enxergar um pouco mais a fundo na toca do coelho branco.
+Será mostrado um pouco do que é o Web Scrapping e suas vantagens, como fazer seus Crawlers,
+dicas de livros e cursos de por onde começar e tudo isso com Python.
