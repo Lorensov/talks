@@ -1,0 +1,6 @@
+Lucian Lorens - Be Water: Git Flow, Cultura DevOps e Soft Skills aplicadas
+
+Tudo que você coda é um resultado de tudo que você viveu e do seu commit na no final da sexta-feira; o objetivo é abordar sobre padrões de organização tanto em documentação, uso do Git em Branches e Commits, e como levar bons hábitos para seu time.
+
+De músico para empreendedor a acupunturista e agora, acima de tudo Desenvolvedor, entrei no mundo da Tecnologia por necessidade e fiquei por paixão.
+Após não ter me formado por 4 anos na Universidade de Brasília em Música me tornei Analista e Desenvolvedor de Sistemas a distância pela Universidade Cruzeiro do Sul e abraçando as oportunidades que me apareceram vivi um pouquinho de cada área dentro da programação, seja de automação de teste até a documentação de sistemas e claro, passando pelo ""front e back end's"" e hoje trabalho como Engenheiro de Dados na Certsys TI de São Paulo que está com o time de Inteligência Artificial aqui em Brasília.
